@@ -11,7 +11,7 @@
     "Typescript",
     "NLW"
   ],
-  "author": "Luis Guilherme(Shadow)",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.3.4"
