@@ -4,7 +4,7 @@
   "description": "Repo criado para colocar os estudos na prática",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node-dev src/server.ts"
   },
   "keywords": [
     "NodeJs",
@@ -13,9 +13,6 @@
   ],
   "author": "",
   "license": "ISC",
-  "scripts":{
-    "start": "ts-node-dev src/server.ts"
-  },
   "devDependencies": {
     "@types/express": "^4.17.12",
     "ts-node-dev": "^1.1.6",
